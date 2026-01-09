@@ -88,3 +88,57 @@ nav .menu{
     border-radius: 5px;
     border: none;
 }
+#qoute{
+    padding-top: 70px;
+}
+#qoute .qoute-container{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+}
+#qoute .qoute-container .qoute-heading h2{
+    font-size: 48px;
+    font-weight:bold ;
+    margin-bottom: 16px;
+    line-height: 100%;
+    color: #001931;
+}
+#qoute .qoute-container .qoute-heading p{
+    font-size: 16px;
+    font-weight:400 ;
+    margin-bottom: 20px;
+    line-height: 44px;
+    color: #627382;
+}
+
+#qoute .qoute-container .q-card{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.q-card .card{
+    padding: 24px;
+    border: 1px solid red;
+    max-width: 322px;
+}
+.card img{
+    padding: 10px;
+    max-width: 25px;
+    margin-bottom: 16px;
+    background-color: #F95555;
+    border-radius: 50%;
+}
+.card h3{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: #001931;
+}
+.card p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+    color: #627382;
+}
+
