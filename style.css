@@ -1,0 +1,38 @@
+/* shared */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.btn{
+    padding: 12.5px 16px;
+    border: none;
+    border-radius: 6px;
+    background-color: #30B868;
+    color: #FFFFFF;
+    font-size: 19;
+    font-weight: 600;
+}
+
+/* main */
+
+nav{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16 120 16 120;
+}
+nav .menu{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    gap: 32px;
+}
