@@ -191,7 +191,11 @@ nav .menu{
     margin-bottom: 16px;
 }
 #last-info{
-    padding: 0px 120px 120px 120px;
+    padding: 4px 120px 120px 120px;
+}
+#last-info .cntnt{
+    padding: 80px 40px 80px 40px;
+    background-color: #F7F6F2;
 }
 #last-info .cntnt .heading {
     width: 85%;
@@ -236,3 +240,42 @@ nav .menu{
     color: #627382;
 }
 
+#tag{
+    background-color: #001931;
+}
+#tag .footer-container .content{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 120px 120px 80px 120px;
+}
+#tag .footer-container .hl{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+}
+#tag .footer-container .content .img{
+    margin-right: 1010px;
+    margin-bottom: 4px;
+}
+#tag .footer-container .content .links h5{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+hr{
+    max-width: 1360px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#tag .footer-container .hl{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FAFAFA;
+}
