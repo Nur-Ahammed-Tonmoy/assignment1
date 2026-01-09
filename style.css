@@ -190,5 +190,49 @@ nav .menu{
     display: flex;
     margin-bottom: 16px;
 }
+#last-info{
+    padding: 0px 120px 120px 120px;
+}
+#last-info .cntnt .heading {
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+}
+#last-info .cntnt .btn1 {
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+}
+#last-info .cntnt .heading h3{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 100%;
+    color: #001931;
+    margin-bottom: 16px;
+}
+#last-info .cntnt .heading p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #627382;
+    margin-bottom: 24px;
+}
 
+#last-info .cntnt .btn1 button{
+    color: #FFFFFF;
+    background-color: #30B868;
+    padding: 16.5px 16px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+#last-info .cntnt .btn1 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #627382;
+}
 
