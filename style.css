@@ -141,4 +141,54 @@ nav .menu{
     margin-bottom: 24px;
     color: #627382;
 }
+#info{
+    padding: 120px;
+}
+#info .info-container{
+    display: flex;
+}
+#info .info-container .brain-img{
+    max-width: 600px;
+}
+#info .info-container .info-content .for-pos{
+    margin: 102px 0px 102px 60px;
+}
+#info .info-container .info-content .for-pos h5{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #30B868;
+    margin-bottom: 16px;
+}
+#info .info-container .info-content .for-pos h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 100%;
+    color: #001931;
+    margin-bottom: 16px;
+}
+#info .info-container .info-content .for-pos p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+#info .info-container .info-content .li-content img{
+    width: 20px;
+    height: 20px;
+}
+#info .info-container .info-content .li-content p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+#info .info-container .info-content .li-content{
+    display: flex;
+    margin-bottom: 16px;
+}
+
 
